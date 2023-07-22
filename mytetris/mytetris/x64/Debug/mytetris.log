@@ -1,0 +1,10 @@
+﻿  Block.cpp
+E:\game\tetris\mytetris\mytetris\Block.cpp(15,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\game\tetris\mytetris\mytetris\Block.cpp(101,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\game\tetris\mytetris\mytetris\Block.cpp(102,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  Tetris.cpp
+E:\game\tetris\mytetris\mytetris\Tetris.cpp(37,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\game\tetris\mytetris\mytetris\Tetris.cpp(207,10): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  mytetris.vcxproj -> E:\game\tetris\mytetris\x64\Debug\mytetris.exe
